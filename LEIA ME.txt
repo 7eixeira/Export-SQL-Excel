@@ -1,0 +1,12 @@
+AppExcel - Rotina utilizada na exportação para o excel
+
+EXPORTAÇÃO COM FWBROWSE COM LEGENDA
+-----------------------------------
+ExpFWExc.prw - Rotina que exporta um FWBROWSE no excel
+RELFINCLI.prw - Exemplo de criação do FWBrowse com exportação
+
+EXPORTAÇÃO DIRETA COM SELECT
+----------------
+EXEMPLOEXCELSQL.PRW - Exemplo 
+NTXEXCEL.prw - Rotina que exporta o SELECT para excel
+
